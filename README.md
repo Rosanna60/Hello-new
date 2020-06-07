@@ -1,2 +1,3 @@
 # Hello-new
-Hello-tuti
+Ez egy akármi
+meg ez is
